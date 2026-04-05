@@ -7,3 +7,7 @@ function greet(){
 function sum(A, B){
 return A + B;
 }
+
+function subt(A, B){
+    return A - B
+}
