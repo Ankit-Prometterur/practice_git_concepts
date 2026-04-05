@@ -11,3 +11,5 @@ return A + B;
 function subt(A, B){
     return A - B
 }
+
+alert("This is the End")
